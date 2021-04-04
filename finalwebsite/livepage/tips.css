@@ -1,0 +1,128 @@
+html {
+    background-color: #b0c4b1;
+    
+  }
+  .container {
+    padding: 32x;
+    margin-left: 26px;
+  }
+  .title {
+    font-size: 50px;
+    margin-bottom: 12px;
+    font-family: "Yeseva One";
+    color: #faedcd;
+    text-shadow: -4px 0px 0px #d4a373;
+  }
+  .bottle {
+    display: flex;
+  }
+  .water {
+    width: 80px;
+    margin-left: 100px;
+    margin-top: -3px;
+  }
+  .list {
+    display: flex;
+  }
+  .bee {
+    display: flex;
+  }
+  .bow {
+    display: flex;
+  }
+  .header {
+    font-size: 30px;
+    font-family: "Yeseva One";
+    color: white;
+    margin-bottom: 12px;
+  }
+  .subtitle {
+    font-size: 30px;
+    font-family: "Abhaya Libre", serif;
+    color: white;
+    margin-bottom: 30px;
+  }
+  li {
+    font-size: 20px;
+    color: white;
+  }
+  .arrow {
+    width: 155px;
+    height: 75px;
+    margin-left: 80px;
+  }
+  .bottom1 {
+    font-size: 20px;
+    margin-bottom: 12px;
+    font-family: "Yeseva One";
+    color: #faedcd;
+    text-shadow: -4px 0px 0px #d4a373;
+    background: #c5d7c6;
+    border: 1px solid #000000;
+    box-sizing: border-box;
+    box-shadow: -10px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 45px;
+    width: 300px;
+    height: 150px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-right: 100px;
+    text-align: center;
+    text-decoration: none;
+  }
+  
+  .button {
+    display: flex;
+  }
+  .bottomtext {
+    color: white;
+    font-size: 30px;
+    font-family: "Abhaya Libre", serif;
+    color: white;
+    margin-top: 50px;
+    text-decoration: none;
+  }
+  .beeimg {
+    margin-bottom: 20px;
+    margin-left: 160px;
+    width: 90px;
+    height: 50px;
+  }
+  .trythese {
+    margin-left: 175px;
+  }
+ 
+  a {
+    text-decoration: none;
+    color: white;
+  }
+  
+  .taskbar {
+    display: flex;
+    font-size: 25px;
+    font-family: "Yeseva One";
+    color: white;
+    justify-content: space-between;
+    margin-bottom: 30px;
+    text-decoration: none;
+    margin-top: 40px;
+    margin-left: 10px;
+    padding: 20px;
+  }
+    
+  a {
+    text-decoration: none;
+    color: white;
+  }
+
+  .taskbar {
+    display: flex;
+    font-size: 25px;
+    font-family: "Yeseva One";
+    color: white;
+    justify-content: space-between;
+    margin-bottom: 30px;
+    text-decoration: none;
+  }
+  

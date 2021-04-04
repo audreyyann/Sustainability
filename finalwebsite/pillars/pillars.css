@@ -1,0 +1,59 @@
+html {
+    background-color: #b0c4b1;
+  }
+  
+  .container {
+    padding: 36px;
+  }
+  
+  .title {
+    font-size: 50px;
+    margin-bottom: 12px;
+    font-family: "Yeseva One";
+    color: #faedcd;
+    text-shadow: -4px 0px 0px #d4a373;
+  }
+  
+  .header {
+    font-size: 30px;
+    font-family: "Yeseva One";
+    color: white;
+    margin-bottom: 10px;
+  }
+  
+  .text {
+    font-size: 25px;
+    font-family: "Abhaya Libre", serif;
+    color: white;
+    margin-left: 70px;
+  }
+  
+  .baby-container {
+    display: flex;
+    margin: 12px 0px;
+  }
+  
+  img {
+    width: 200px;
+    margin: 40px;
+  }
+  
+  .right-align {
+    text-align: right;
+  }
+
+  a {
+    text-decoration: none;
+    color: white;
+  }
+
+  .taskbar {
+    display: flex;
+    font-size: 25px;
+    font-family: "Yeseva One";
+    color: white;
+    justify-content: space-between;
+    margin-bottom: 30px;
+    text-decoration: none;
+  }
+  
