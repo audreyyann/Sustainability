@@ -1,0 +1,54 @@
+html {
+    background-color: #b0c4b1;
+  }
+  
+  .container {
+    padding: 36px;
+  }
+  
+  .title {
+    font-size: 50px;
+    margin-bottom: 12px;
+    font-family: "Yeseva One";
+    color: #faedcd;
+    text-shadow: -4px 0px 0px #d4a373;
+  }
+  
+  .infobox {
+    font-size: 27px;
+    font-family: "Abhaya Libre", serif;
+    color: white;
+    margin-bottom: 30px;
+    margin-left: 20px;
+  }
+  
+  .subheader {
+    font-size: 28px;
+    margin-bottom: 30px;
+    font-family: "Yeseva One";
+    color: white;
+  }
+  
+  .text {
+    font-size: 27px;
+    font-family: "Abhaya Libre", serif;
+    color: white;
+  }
+  
+  .taskbar {
+    display: flex;
+    font-size: 25px;
+    font-family: "Yeseva One";
+    color: white;
+    justify-content: space-between;
+    margin-bottom: 30px;
+    text-decoration: none;
+  }
+
+  li {
+    margin: 20px 0px;
+  }
+  a {
+    color: white;
+    text-decoration: none;
+  }

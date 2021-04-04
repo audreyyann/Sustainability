@@ -1,0 +1,87 @@
+html {
+    background-color: #b0c4b1;
+  }
+  
+  .container {
+    padding: 36px;
+  }
+  
+  .title {
+    font-size: 50px;
+    margin-bottom: 12px;
+    font-family: "Yeseva One";
+    color: #faedcd;
+    text-shadow: -4px 0px 0px #d4a373;
+  }
+  
+  .subheader {
+    font-size: 28px;
+    margin-bottom: 30px;
+    font-family: "Yeseva One";
+    color: white;
+  }
+  
+  .question {
+    font-size: 28px;
+    margin-bottom: 30px;
+    margin-top: 20px;
+    font-family: "Yeseva One";
+    color: white;
+  }
+  
+  .info {
+    font-size: 22px;
+    font-family: "Abhaya Libre", serif;
+    color: white;
+    line-height: 30px;
+    margin-top: 15px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+    text-align: justify;
+  }
+  
+  .oinfo {
+    font-size: 22px;
+    font-family: "Abhaya Libre", serif;
+    color: white;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    text-align: justify;
+  }
+  
+  .sect {
+    flex-direction: column;
+    flex: 1;
+    margin: 12px 0px;
+    margin-right: 50px;
+  }
+  
+  .sectparent {
+    display: flex;
+  }
+  
+  img {
+    width: 200px;
+    right: 100px;
+    margin-bottom: 10px;
+    margin-left: 40px;
+    margin-right: 40px;
+  }
+
+  a {
+    text-decoration: none;
+    color: white;
+  }
+
+  .taskbar {
+    display: flex;
+    font-size: 25px;
+    font-family: "Yeseva One";
+    color: white;
+    justify-content: space-between;
+    margin-bottom: 30px;
+    text-decoration: none;
+  }
+
+
+  
